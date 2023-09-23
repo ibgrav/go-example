@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "golang.go",
+
+  "go.useLanguageServer": true,
+
+  "files.associations": {
+    "*.tmpl": "html"
+  }
+}
